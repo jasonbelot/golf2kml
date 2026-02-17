@@ -1,1 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Environnements virtuels
+venv/
+.env/
+
+# IDE / éditeurs
+.vscode/
+.idea/
+*.swp
+
+# Fichiers OS
+.DS_Store
+Thumbs.db
+
+# Sorties du script
+debug/
+*.kml
+
+# Images temporaires / lourdes (optionnel)
+# *.png
+# *.jpg
+# *.tif
 
