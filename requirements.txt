@@ -1,1 +1,6 @@
+opencv-python
+numpy
+scikit-learn
+shapely
+simplekml
 
